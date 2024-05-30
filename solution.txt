@@ -1,0 +1,1 @@
+Prêt·e pour ma formation à la Wild Code School . Et quand tu sauvegardes le fichier, n'oublie pas d'ajouter un commentaire explicite dans le commit !
